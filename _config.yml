@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Akash Hire # your name (or website title) here
 logo: "/images/MyPic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Enthusiastic Data Scientist dedicated to transforming insights into impactful solutions through the power of data.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/akash-hire/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
